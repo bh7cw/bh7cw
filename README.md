@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 - 🔭 I’m interested in Linux, cloud, infrastructure.
 - 🌱 I’m currently learning container, kubernetes.
 - 👯 I’m looking to collaborate on open source projects.
+-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bh7cw&count_private=true&show_icons=true&theme=Gradient&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![bh7cw's github stats](https://github-readme-stats.vercel.app/api?username=bh7cw&count_private=true&show_icons=true&theme=Gradient&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
