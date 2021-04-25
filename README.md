@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [![bh7cw's github stats](https://github-readme-stats.vercel.app/api?username=bh7cw&count_private=true&show_icons=true&theme=Gradient&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![bh7cw's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bh7cw)](https://github.com/anuraghazra/github-readme-stats)
+[![bh7cw's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bh7cw)](https://github.com/bh7cw/github-readme-stats)
