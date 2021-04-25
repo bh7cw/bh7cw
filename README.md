@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=bh7cw&hide_title=true&count_private=true&show_icons=true&theme=radical&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bh7cw&hide_title=true)](https://github.com/bh7cw/github-readme-stats&v=2)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bh7cw&hide_title=true&v=2)](https://github.com/bh7cw/github-readme-stats)
