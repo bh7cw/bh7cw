@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bh7cw&langs_count=7&layout=compact&exclude_repo=INFO6105&hide=javascript,html,css)](https://github.com/bh7cw/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bh7cw&hide_title=true&v=2">
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=bh7cw&hide_title=true&count_private=true&show_icons=true&theme=radical&hide=stars,issues">
+<img src="https://github-readme-stats.vercel.app/api?username=bh7cw&hide_title=true&count_private=true&show_icons=true&theme=dracula&hide=stars,issues">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bh7cw&theme=dracula&hide_title=true&v=2">
