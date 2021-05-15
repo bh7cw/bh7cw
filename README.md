@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=bh7cw&hide_title=true&count_private=true&show_icons=true&theme=flag-india&hide=stars,issues">
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bh7cw&theme=flag-india&hide_title=true&v=2">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bh7cw&theme=flag-india&hide_title=true&langs_count=6">
