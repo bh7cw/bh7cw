@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bh7cw&langs_count=7&layout=compact&exclude_repo=INFO6105&hide=javascript,html,css)](https://github.com/bh7cw/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=bh7cw&hide_title=true&count_private=true&show_icons=true&theme=flag-india&hide=stars,issues">
--->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bh7cw&theme=flag-india&hide_title=true&langs_count=6">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bh7cw&theme=flag-india&hide_title=true&langs_count=6&hide=Other">
+-->
